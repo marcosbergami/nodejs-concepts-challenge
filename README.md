@@ -24,7 +24,7 @@ In the first stage of the bootcamp, we have been learning about HTTP requests an
 
 The back-end of this newly created application, has a total of 5 routes at the moment.
 
-- **`POST /repositories`**: This route receives a title, url, and techs inside of the request's body. Whever a new repository is created, it is stored in the following format: `{ id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }`; The likes will always start at 0 whenever a repository is created. A user will be able to like repositories and the likes amount will be stored as it increases.
+- **`POST /repositories`**: This route receives a title, url, and techs inside of the request's body. Whever a new repository is created, it is stored in the following format: `{ id: "uuid", title: 'Node.js Challenge', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }`; The likes will always start at 0 whenever a repository is created. A user will be able to like repositories and the likes amount will be stored as it increases.
 
 - **`GET /repositories`**: This route will list all of the repositories.
 

@@ -1,5 +1,5 @@
 <h3 align="center">
-    Challege 02: Node.js Concepts
+    Challenge 02: Node.js Concepts
 </h3>
 
 <p align="center">

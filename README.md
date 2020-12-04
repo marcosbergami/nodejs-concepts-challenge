@@ -9,8 +9,6 @@
     <img alt="Made by Marcos Bergami" src="https://img.shields.io/badge/made%20by-Marcos%20Bergami-blueviolet">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet>
-
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/marcosbergami/nodejs-concepts-challenge">
 </p>
 

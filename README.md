@@ -36,7 +36,7 @@ The back-end of this newly created application, has a total of 5 routes at the m
 
 This was overall a very fun challenge to begin with. I have utilized **[Insomnia](https://insomnia.rest/)** to test the requests as well as I have ran the automated tests provided by Rocketseat to ensure the application is working as expected.
 
-<img alt="GoStack" src="https://user-images.githubusercontent.com/56553101/101205665-97074480-3633-11eb-9437-cbc769538405.png" />
+<img alt="Tests" src="https://user-images.githubusercontent.com/56553101/101205665-97074480-3633-11eb-9437-cbc769538405.png" />
 
 ---
 
